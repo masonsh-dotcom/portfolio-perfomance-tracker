@@ -316,7 +316,7 @@ def configure_site() -> None:
     set_site_information(
         author="Mason Shimp",
         description="A CISC106 tracker for manually priced stocks, cash, returns, and an investment goal.",
-        sources="Drafter documentation and OpenAI ChatGPT/Codex. See the repository's AI conversation file.",
+        sources="Drafter documentation and ChatGPT. See the repository's AI conversation file.",
         planning="See the brainstorming and design documents in the repository's worksheets folder.",
         links=["https://drafter-edu.github.io/drafter/"],
     )
